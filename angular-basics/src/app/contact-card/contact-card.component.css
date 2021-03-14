@@ -1,0 +1,14 @@
+.contact-card {
+  display: block;
+  border: 1px solid grey;
+  background: rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+}
+
+
+.address {
+  border-left: 1px solid green;
+  margin-left: 1rem;
+  padding-left: 0.5rem;
+}
+
